@@ -1,0 +1,25 @@
+{
+  "name": "myjekylltheme",
+  "version": "1.0.0",
+  "description": "A responsive Jekyll theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharr171/myJekyllTheme.git"
+  },
+  "author": "Matthew Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharr171/myJekyllTheme/issues"
+  },
+  "homepage": "https://github.com/mharr171/myJekyllTheme#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3",
+    "lodash": "^4.17.4"
+  }
+}
